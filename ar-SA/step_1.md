@@ -1,4 +1,4 @@
-## Jiggle a sprite
+## هزهز الكائن
 
 ```blocks3
 repeat [8]
