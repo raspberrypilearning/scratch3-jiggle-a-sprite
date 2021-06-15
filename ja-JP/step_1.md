@@ -1,4 +1,4 @@
-## Jiggle a sprite
+## スプライトを揺さぶる
 
 ```blocks3
 repeat [8]
