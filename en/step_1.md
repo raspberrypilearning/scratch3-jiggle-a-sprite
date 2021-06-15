@@ -1,5 +1,3 @@
-## Jiggle a sprite
-
 ```blocks3
 repeat [8]
 turn left [15] degrees
