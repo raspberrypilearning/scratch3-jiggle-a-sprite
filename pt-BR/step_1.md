@@ -1,4 +1,4 @@
-## Jiggle a sprite
+## Balance um ator
 
 ```blocks3
 repeat [8]
