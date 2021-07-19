@@ -1,9 +1,10 @@
-title: Jiggle a sprite
+---
+title: Agiter un sprite
 hero_image: images/banner.png
-description: Jiggle a sprite
+description: Agiter un sprite
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-11"
 steps:
-  - title: Jiggle a sprite
+  - title: Introduction
