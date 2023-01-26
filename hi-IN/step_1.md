@@ -1,4 +1,4 @@
-![A strip of images showing a rock sprite at different angles to demonstrate that jiggling is turning a sprite slighlty to and fro.](images/jiggle.png)
+![विभिन्न कोणों पर एक रॉक स्प्राइट दिखाती छवियों की एक पट्टी यह प्रदर्शित करने के लिए कि जिगलिंग स्प्राइट को थोड़ा इधर-उधर घुमा रही है।](images/jiggle.png)
 
 ```blocks3
 repeat [8]
