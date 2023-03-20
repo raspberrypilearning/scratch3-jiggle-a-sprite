@@ -1,4 +1,4 @@
-![A strip of images showing a rock sprite at different angles to demonstrate that jiggling is turning a sprite slighlty to and fro.](images/jiggle.png)
+![Una tira de imágenes que muestran un objeto de roca en ángulos diferentes para demostrar que sacudir es girara un objeto ligeramente de un lado a otro.](images/jiggle.png)
 
 ```blocks3
 repeat [8]
