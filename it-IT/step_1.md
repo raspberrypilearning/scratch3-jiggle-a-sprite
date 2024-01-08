@@ -1,4 +1,4 @@
-![A strip of images showing a rock sprite at different angles to demonstrate that jiggling is turning a sprite slighlty to and fro.](images/jiggle.png)
+![Una serie di immagini che mostrano uno sprite roccia da diverse angolazioni per dimostrare che oscillare significa far ruotare leggermente uno sprite avanti e indietro.](images/jiggle.png)
 
 ```blocks3
 repeat [8]
