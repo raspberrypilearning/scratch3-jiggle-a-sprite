@@ -1,4 +1,4 @@
-![A strip of images showing a rock sprite at different angles to demonstrate that jiggling is turning a sprite slighlty to and fro.](images/jiggle.png)
+![Pasek obrazów przedstawiających duszka skały pod różnymi kątami, aby zademonstrować, że poruszanie się powoduje lekkie obracanie duszka.](images/jiggle.png)
 
 ```blocks3
 repeat [8]
